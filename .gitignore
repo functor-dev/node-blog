@@ -41,10 +41,6 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
-.env.development
-.env.production
-.env.local
 
 # Template files
 *.template.*
@@ -54,3 +50,4 @@ robots.txt
 
 # Storage
 storage
+config.bat
